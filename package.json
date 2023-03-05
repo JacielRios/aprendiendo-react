@@ -1,0 +1,25 @@
+{
+  "name": "aprendiendo-react",
+  "version": "1.0.0",
+  "description": "curso react Midudev\u001b[D\u001b[De\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[Cdesde cero por Midu",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JacielRios/aprendiendo-react.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JacielRios/aprendiendo-react/issues"
+  },
+  "homepage": "https://github.com/JacielRios/aprendiendo-react#readme",
+  "devDependencies": {
+    "standard": "^17.0.0"
+  },
+  "eslintConfig": {
+    "extends" : "./node_modules/standard/eslintrc.json"
+  }
+}
